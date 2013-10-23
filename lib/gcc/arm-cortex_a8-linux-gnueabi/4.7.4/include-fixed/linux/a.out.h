@@ -2,7 +2,7 @@
 
     It has been auto-edited by fixincludes from:
 
-	"/media/hdd_linux/crosstool-ng/builds/arm-cortex_a8-linux-gnueabi/arm-cortex_a8-linux-gnueabi/sysroot/usr/include/linux/a.out.h"
+	"/home/cl3kener/crosstool-ng/builds/arm-cortex_a8-linux-gnueabi/arm-cortex_a8-linux-gnueabi/sysroot/usr/include/linux/a.out.h"
 
     This had to be done to correct non-standard usages in the
     original, manufacturer supplied header file.  */

@@ -17,7 +17,7 @@ old_library='libbfd.a'
 inherited_linker_flags=''
 
 # Libraries that this one depends upon.
-dependency_libs=' -L/media/hdd_linux/crosstool-ng/.build/arm-cortex_a8-linux-gnueabi/build/static-target/lib'
+dependency_libs=' -L/home/cl3kener/crosstool-ng/.build/arm-cortex_a8-linux-gnueabi/build/static-target/lib'
 
 # Names of additional weak libraries provided by this library
 weak_library_names=''
