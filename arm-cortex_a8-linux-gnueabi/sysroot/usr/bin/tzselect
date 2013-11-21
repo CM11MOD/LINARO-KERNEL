@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PKGVERSION="(crosstool-NG hg+default-9838aecd6340 - Linaro GCC 2013.10) "
+PKGVERSION="(crosstool-NG hg+default-9838aecd6340 - Linaro GCC 2013.11) "
 TZVERSION="2.18-2013.09"
 REPORT_BUGS_TO="<http://www.eglibc.org/issues/>"
 
